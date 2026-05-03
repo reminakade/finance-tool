@@ -1,6 +1,6 @@
 def currency_convert(amount, rate):
     """Converts amount using exchange rate."""
-    return amount * rate
+    return amount * rate *999
 
 def simple_interest(principal, rate, years):
     """Calculates simple interest."""
