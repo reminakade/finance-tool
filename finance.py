@@ -1,3 +1,4 @@
+# Finance Tool v1.0
 def currency_convert(amount, rate):
     """Converts amount using exchange rate."""
     return amount * rate 
